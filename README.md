@@ -27,9 +27,11 @@ I aim to design AI solutions that are functional, optimized, and deployable.
 ### Programming
 - Python
 - Typescript
-- SQL
 
-### AI / Machine Learning
+### Database
+- SQL
+ 
+### FrameWorks & Libraries
 - YOLOv8
 - OpenCV
 - TensorFlow / PyTorch
@@ -41,6 +43,7 @@ I aim to design AI solutions that are functional, optimized, and deployable.
 - React + Vite
 - HTML / CSS
 - Kotlin + XML
+- ReactNative
 - Node.js (basic integration)
 
 ### Tools & Platforms
@@ -48,7 +51,7 @@ I aim to design AI solutions that are functional, optimized, and deployable.
 - VS Code
 - Android Studio
 - GitHub Pages
-- Git LFS
+- Tableau
 
 ---
 
