@@ -94,7 +94,7 @@ Designed a prototype robotic arm system integrating hardware components for obje
 
 - GitHub: https://github.com/Eswar-AIDS
 - LinkedIn: www.linkedin.com/in/eswar-balu
-- Portfolio: (Im working on it)
+- Portfolio: https://eswar.me/
 
 ---
 
